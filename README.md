@@ -11,3 +11,4 @@ Enhance your understanding of JavaScript functions and algorithms with the tempe
 - CSS
 - JavaScript
 # Output
+![Screenshot (10)](https://github.com/VenkataKarthik05/Temperature_Converter/assets/143409030/e921e329-c5e3-4e8b-b621-dcf2fd4ce94b)
